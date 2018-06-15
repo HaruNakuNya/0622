@@ -11,7 +11,7 @@
 
 
 ## システム設計
-
+ブラウザ上でProcessing.js
 
 ## 作品の目的
 - 高齢者向けのゲームを作る
@@ -31,6 +31,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MDg1MjE0NSwtMjIwMTcwMzM1LC0xMj
+eyJoaXN0b3J5IjpbLTk2NjE0MTM4NSwtMjIwMTcwMzM1LC0xMj
 M3NjE2OTY2LC0xNzgyNzk5Njk4XX0=
 -->
