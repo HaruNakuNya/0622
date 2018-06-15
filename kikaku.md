@@ -18,11 +18,11 @@ html + Processing.js
 - 高齢者向けのゲームを作る
 
 ## 作品構想
-- 一人で出来る
+- 一人で出来るけど、記録を競える
 - 反射神経を必要としないカードゲームなど
-- 脳トレ
+- 脳トレ = 指を使う
 - ギャンブル要素
-- タイピング
+- タイピング技術をあまり必要としない
 
 案
 - 買い物計算ゲーム
@@ -34,7 +34,7 @@ html + Processing.js
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODg5NjgwNjQsLTEzNTAwMDA5MDUsMT
+eyJoaXN0b3J5IjpbLTE3OTM2MzYzMzUsLTEzNTAwMDA5MDUsMT
 I2NzE1ODY2MywtMjIwMTcwMzM1LC0xMjM3NjE2OTY2LC0xNzgy
 Nzk5Njk4XX0=
 -->
