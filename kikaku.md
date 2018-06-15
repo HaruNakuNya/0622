@@ -17,6 +17,9 @@
 - 反射神経を必要としないカードゲームなど
 - 脳トレ
 - ギャンブル要素
+
+案
+- 買い物ゲーム
 - 
 
 ## 作品の独創的な点
@@ -24,5 +27,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0OTY1NjAzMSwtMTc4Mjc5OTY5OF19
+eyJoaXN0b3J5IjpbLTEyMzc2MTY5NjYsLTE3ODI3OTk2OThdfQ
+==
 -->
