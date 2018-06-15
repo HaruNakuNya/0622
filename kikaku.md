@@ -6,8 +6,9 @@
 5416001 天本大陽
 
 ## 制作計画
-テキスト共有: http://plsk.net/digicon2018
-プロジェクト共有: Github
+テキスト共有 : http://plsk.net/digicon2018
+プロジェクト共有 : https://github.com/moriakijp/0622
+
 
 ## システム設計
 
@@ -29,6 +30,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkzMDg3NDgzLC0xMjM3NjE2OTY2LC0xNz
-gyNzk5Njk4XX0=
+eyJoaXN0b3J5IjpbLTIyMDE3MDMzNSwtMTIzNzYxNjk2NiwtMT
+c4Mjc5OTY5OF19
 -->
