@@ -9,11 +9,9 @@
 5416001 天本大陽
 
 ## 制作計画
-メモ共有 : 
-poolsketch http://plsk.net/digicon2018
+メモ共有 : poolsketch http://plsk.net/digicon2018
 
-プロジェクト共有 : 
-Github https://github.com/moriakijp/0622
+プロジェクト共有 : Github https://github.com/moriakijp/0622
 
 制作予定日時 : 
 毎週土曜昼12:00- など
