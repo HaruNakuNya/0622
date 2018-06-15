@@ -1,14 +1,22 @@
 # 企画書
 #### 制作者
 5415031 癸生川裕紀
+
 5415062 田中太樹
+
 5415082 森田瑛仁
+
 5416001 天本大陽
 
 ## 制作計画
-メモ共有 : http://plsk.net/digicon2018
-プロジェクト共有 : https://github.com/moriakijp/0622
-制作予定日 : 毎週土曜昼休みなど
+メモ共有 : 
+poolsketch http://plsk.net/digicon2018
+
+プロジェクト共有 : 
+Github https://github.com/moriakijp/0622
+
+制作予定日時 : 
+毎週土曜昼12:00- など
 
 ## システム設計
 ブラウザ上で
