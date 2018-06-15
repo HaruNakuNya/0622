@@ -1,16 +1,18 @@
-# 企画書デジタルコンテンツ１
+# 企画書
 #### 制作者
 5415031 癸生川裕紀
 5415062 田中太樹
 5415082 森田瑛仁
 5416001 天本大陽
 
+## ゲーム名
+
 ## 制作計画
-- 高齢者向け
-- 
+
 ## システム設計
 
 ## 作品の目的
+- 高齢者向けのｇ
 
 ## 作品構想
 - 一人で出来る
@@ -24,5 +26,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzAzMzM0MCwtMTc4Mjc5OTY5OF19
+eyJoaXN0b3J5IjpbOTk5NDg4MTIwLC0xNzgyNzk5Njk4XX0=
 -->
