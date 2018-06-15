@@ -8,7 +8,7 @@
 ## 制作計画
 メモ共有 : http://plsk.net/digicon2018
 プロジェクト共有 : https://github.com/moriakijp/0622
-
+制作予定日 : 毎週土曜
 
 ## システム設計
 ブラウザ上で
@@ -32,6 +32,6 @@ html + Processing.js
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MTU1MDA5NCwtMjIwMTcwMzM1LC0xMj
+eyJoaXN0b3J5IjpbMTI2NzE1ODY2MywtMjIwMTcwMzM1LC0xMj
 M3NjE2OTY2LC0xNzgyNzk5Njk4XX0=
 -->
