@@ -5,21 +5,22 @@
 5415082 森田瑛仁
 5416001 天本大陽
 
-## 
+## 制作計画
 - 高齢者向け
 - 
-## 企画概要
+## システム設計
 
 ## 作品の目的
 
-## 構想
+## 作品構想
 - 一人で出来る
 - 反射神経を必要としないカードゲームなど
+- 脳撮れ
 - 
 ## 作品の独創的な点
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NjQ4NDEyNSwtMTc4Mjc5OTY5OF19
+eyJoaXN0b3J5IjpbMTc2NDU1Mjk0NSwtMTc4Mjc5OTY5OF19
 -->
