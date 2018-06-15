@@ -19,19 +19,19 @@
 ## システム設計
 ```
 .
-├── index.html..............公開用Webページ
 ├── images..................添付画像など
 │   ├── xxx.png
 │   ...
 │   └── yyy.png
 ├── docs
+│   ├── index.html..............公開用Webページ
 │   ├── readme.md...........説明用ドキュメント
 │   ...
 │   └── index.md............公開用Webページ草稿
 └── assets
     ├── processing.js.......変換用スクリプト
     ├── processing.min.js...変換用スクリプト(縮小版)
-    └── < Projectfile >.....各種スケッチファイル
+    └── sketch_00x.....各種スケッチ
         ├── aaa.pde
         ...
         └── zzz.pde
