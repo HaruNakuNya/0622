@@ -22,6 +22,7 @@ html + Processing.js
 - 反射神経を必要としないカードゲームなど
 - 脳トレ
 - ギャンブル要素
+- タイピング
 
 案
 - 買い物計算ゲーム
@@ -33,6 +34,7 @@ html + Processing.js
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTAwMDA5MDUsMTI2NzE1ODY2MywtMj
-IwMTcwMzM1LC0xMjM3NjE2OTY2LC0xNzgyNzk5Njk4XX0=
+eyJoaXN0b3J5IjpbLTEyODg5NjgwNjQsLTEzNTAwMDA5MDUsMT
+I2NzE1ODY2MywtMjIwMTcwMzM1LC0xMjM3NjE2OTY2LC0xNzgy
+Nzk5Njk4XX0=
 -->
