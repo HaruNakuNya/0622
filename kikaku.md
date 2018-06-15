@@ -1,9 +1,9 @@
 # 企画書デジタルコンテンツ１
 #### 制作者
+5415031 癸生川裕紀
 5415082 森田瑛仁
-5415031
-5415
-541
+5415062 田中太樹
+5416001 天本大陽
 
 ## 作品のコンセプト
 
@@ -18,5 +18,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMzE1OTQ2LC0xNzgyNzk5Njk4XX0=
+eyJoaXN0b3J5IjpbNzczOTkwMjExLC0xNzgyNzk5Njk4XX0=
 -->
