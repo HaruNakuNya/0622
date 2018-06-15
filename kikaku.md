@@ -8,7 +8,7 @@
 ## 制作計画
 メモ共有 : http://plsk.net/digicon2018
 プロジェクト共有 : https://github.com/moriakijp/0622
-制作予定日 : 毎週土曜
+制作予定日 : 毎週土曜昼休みなど
 
 ## システム設計
 ブラウザ上で
@@ -21,7 +21,7 @@ html + Processing.js
 - 一人で出来るけど、記録を競える
 - 反射神経を必要としないカードゲームなど
 - 脳トレ = 指を使う
-- ギャンブル要素
+- ギャンブル要素 を記録にする
 - タイピング技術をあまり必要としない
 
 案
@@ -34,7 +34,7 @@ html + Processing.js
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTM2MzYzMzUsLTEzNTAwMDA5MDUsMT
-I2NzE1ODY2MywtMjIwMTcwMzM1LC0xMjM3NjE2OTY2LC0xNzgy
-Nzk5Njk4XX0=
+eyJoaXN0b3J5IjpbNTQxNTIxODY3LC0xMzUwMDAwOTA1LDEyNj
+cxNTg2NjMsLTIyMDE3MDMzNSwtMTIzNzYxNjk2NiwtMTc4Mjc5
+OTY5OF19
 -->
