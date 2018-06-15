@@ -12,6 +12,7 @@
 
 ## システム設計
 
+
 ## 作品の目的
 - 高齢者向けのゲームを作る
 
@@ -30,6 +31,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMDE3MDMzNSwtMTIzNzYxNjk2NiwtMT
-c4Mjc5OTY5OF19
+eyJoaXN0b3J5IjpbLTg5MDg1MjE0NSwtMjIwMTcwMzM1LC0xMj
+M3NjE2OTY2LC0xNzgyNzk5Njk4XX0=
 -->
