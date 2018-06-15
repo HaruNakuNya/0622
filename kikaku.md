@@ -5,14 +5,12 @@
 5415082 森田瑛仁
 5416001 天本大陽
 
-## ゲーム名
-
 ## 制作計画
 
 ## システム設計
 
 ## 作品の目的
-- 高齢者向けのｇ
+- 高齢者向けのゲームを作る
 
 ## 作品構想
 - 一人で出来る
@@ -26,5 +24,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk5NDg4MTIwLC0xNzgyNzk5Njk4XX0=
+eyJoaXN0b3J5IjpbLTU0OTY1NjAzMSwtMTc4Mjc5OTY5OF19
 -->
