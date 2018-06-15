@@ -15,12 +15,14 @@
 ## 作品構想
 - 一人で出来る
 - 反射神経を必要としないカードゲームなど
-- 脳撮れ
+- 脳トレ
+- ギャンブル要素
 - 
+
 ## 作品の独創的な点
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NDU1Mjk0NSwtMTc4Mjc5OTY5OF19
+eyJoaXN0b3J5IjpbMTIxNzAzMzM0MCwtMTc4Mjc5OTY5OF19
 -->
