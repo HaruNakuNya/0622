@@ -6,12 +6,13 @@
 5416001 天本大陽
 
 ## 制作計画
-テキスト共有 : http://plsk.net/digicon2018
+メモ共有 : http://plsk.net/digicon2018
 プロジェクト共有 : https://github.com/moriakijp/0622
 
 
 ## システム設計
-ブラウザ上でProcessing.js
+ブラウザ上で
+html + Processing.js
 
 ## 作品の目的
 - 高齢者向けのゲームを作る
@@ -31,6 +32,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NjE0MTM4NSwtMjIwMTcwMzM1LC0xMj
+eyJoaXN0b3J5IjpbMTk3MTU1MDA5NCwtMjIwMTcwMzM1LC0xMj
 M3NjE2OTY2LC0xNzgyNzk5Njk4XX0=
 -->
