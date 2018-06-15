@@ -24,7 +24,8 @@ html + Processing.js
 - ギャンブル要素
 
 案
-- 買い物ゲーム
+- 買い物計算ゲーム
+- 数字反転カードゲーム
 - 
 
 ## 作品の独創的な点
@@ -32,6 +33,6 @@ html + Processing.js
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NzE1ODY2MywtMjIwMTcwMzM1LC0xMj
-M3NjE2OTY2LC0xNzgyNzk5Njk4XX0=
+eyJoaXN0b3J5IjpbLTEzNTAwMDA5MDUsMTI2NzE1ODY2MywtMj
+IwMTcwMzM1LC0xMjM3NjE2OTY2LC0xNzgyNzk5Njk4XX0=
 -->
